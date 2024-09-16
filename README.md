@@ -1,5 +1,5 @@
 <h1 align="center">Heyy I'm Vikas R</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+
 
 - 🔭 I’m currently working on **Backend Development**
 
