@@ -1,7 +1,7 @@
 <h1 align="center">Heyy I'm Vikas R</h1>
 
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
