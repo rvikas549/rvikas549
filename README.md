@@ -1,9 +1,7 @@
 <h1 align="center">Heyy I'm Vikas R</h1>
 
 
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 📫 How to reach me **rvikas549@gmail.com**
 
