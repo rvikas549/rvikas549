@@ -1,7 +1,7 @@
 <h1 align="center">Heyy I'm Vikas R</h1>
 
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m a **Full Stack Web Developer**
 
 - 📫 How to reach me **rvikas549@gmail.com**
 
