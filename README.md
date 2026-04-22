@@ -1,10 +1,10 @@
 <h1 align="center">Heyy I'm Vikas R</h1>
 
 
-- **React Developer Intern at Vizion System**
-- I’m a Full Stack Web Developer 🔭 
+- **I’m a Full Stack Web Developer 🔭**
 - Final Year Computer Science Student
-
+- Completed React Developer Internship at Vizion System
+- 
 - 📫 How to reach me **rvikas549@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
