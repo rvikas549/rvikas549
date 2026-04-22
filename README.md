@@ -3,7 +3,7 @@
 
 - **I’m a Full Stack Web Developer 🔭**
 - Final Year Computer Science Student
-- Completed React Developer Internship at Vizion System
+- Completed 10 Months Internship as React Developer at Vizion System
   
 - 📫 How to reach me **rvikas549@gmail.com**
 
