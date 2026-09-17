@@ -4,7 +4,7 @@
 - **I’m a Full Stack Web Developer 🔭**
 - Final Year Computer Science Student
 - Completed 1 Year of Internship as React Developer at Vizion System
-- Preparing for SDE Roles
+- Preparing for SDE Roles 
   
 - 📫 How to reach me **rvikas549@gmail.com**
 - 🌐 Portfolio Website: [rvikas549.github.io/VR.dev](https://rvikas549.github.io/VR.dev/)
